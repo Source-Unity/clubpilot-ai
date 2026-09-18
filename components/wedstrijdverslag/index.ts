@@ -1,0 +1,9 @@
+export { default as WedstrijdHeader } from "./WedstrijdHeader";
+export { default as WedstrijdIntro } from "./WedstrijdIntro";
+export { default as WedstrijdTypeKeuze } from "./WedstrijdTypeKeuze";
+export { default as WedstrijdFormulier } from "./WedstrijdFormulier";
+export { default as WedstrijdResultaat } from "./WedstrijdResultaat";
+export { default as ResultaatTitel } from "./ResultaatTitel";
+export { default as ResultaatVerslag } from "./ResultaatVerslag";
+export { default as ResultaatSocial } from "./ResultaatSocial";
+export { default as ResultaatLeeg } from "./ResultaatLeeg";
